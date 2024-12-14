@@ -1,7 +1,7 @@
-# Java/MySQL Streaming Project
+# Java/MySQL Streaming Project 📝
 
 This is a Streaming project created for study purposes, using the Java language and the MySQL database.
 
-## Technologies used:
-- Java
+## 🖥Technologies used:
+- Java 
 - MySQL
