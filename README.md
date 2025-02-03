@@ -16,4 +16,5 @@ Cenaflix JPA is a project developed at Senac for study purposes, and enhanced wi
 - Maven
 - Jakarta Persistence API (JPA)
 <br>
+
 📌 *Academic project developed at Senac and later improved by me.*
